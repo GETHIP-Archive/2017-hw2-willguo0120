@@ -37,3 +37,6 @@ $.getJSON("your_url_here", function(data) {
     //your json object will be stored in data
 }
 ```
+
+##HTML and CSS
+Customize your page with extra html and css. Make it unique to you.
