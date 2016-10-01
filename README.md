@@ -30,3 +30,4 @@ example.json
 ```
 
 ##Get Your JSON Object
+Get the url for your JSON file after committing it to GitHub. View your JSON file on GitHub and click on the raw button that will show you the plain json. Copy the url for this raw JSON and insert it into your javascript file.
